@@ -1,0 +1,17 @@
+.data-section{
+    float:left; 
+    width:100%; 
+    margin-left: 5px;
+}
+
+.fa-spin {
+    margin: 0 auto;
+} 
+
+.data-section td {
+    background-color: mintcream;
+}
+
+.data-section tr {
+    background-color: mintcream;
+}
